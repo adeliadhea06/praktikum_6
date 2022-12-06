@@ -50,10 +50,11 @@ Ubahlah kode dibawah ini menjadi fungsi menggunakan lambda
     lambdaD=d("Dhea")
     print(lambdaD("Dwi", "Adelia"))
     
-    ![Screenshot (160)](https://user-images.githubusercontent.com/115794875/205831450-d408cc5f-eae4-49bf-877d-e463c52ac1b7.png)
+ ![Screenshot (160)](https://user-images.githubusercontent.com/115794875/205831450-d408cc5f-eae4-49bf-877d-e463c52ac1b7.png)
     
 #### Berikut hasil run
-  ![Screenshot (162)](https://user-images.githubusercontent.com/115794875/205831745-89f1a1bc-647a-4b58-ba0f-dbb3964efd98.png)
+
+ ![Screenshot (162)](https://user-images.githubusercontent.com/115794875/205831745-89f1a1bc-647a-4b58-ba0f-dbb3964efd98.png)
 
 ### Praktikum
 
@@ -149,23 +150,27 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
         else:
             print("YANG ANDA CARI TIDAK ADA!")
             
-    ![Screenshot (154)](https://user-images.githubusercontent.com/115794875/205833788-59e82340-d1b1-41af-bd70-1b8fae5e7ef9.png)
-    ![Screenshot (155)](https://user-images.githubusercontent.com/115794875/205833987-a24af1ed-73bc-40ea-97b0-094d98ac07d6.png)
-    ![Screenshot (156)](https://user-images.githubusercontent.com/115794875/205834222-8f54e4a5-6468-4072-8666-6b2885864f9f.png)
-    ![Screenshot (157)](https://user-images.githubusercontent.com/115794875/205834356-b3392114-2259-4f37-91aa-01acd6197ec6.png)
+![Screenshot (154)](https://user-images.githubusercontent.com/115794875/205833788-59e82340-d1b1-41af-bd70-1b8fae5e7ef9.png)
+![Screenshot (155)](https://user-images.githubusercontent.com/115794875/205833987-a24af1ed-73bc-40ea-97b0-094d98ac07d6.png)
+![Screenshot (156)](https://user-images.githubusercontent.com/115794875/205834222-8f54e4a5-6468-4072-8666-6b2885864f9f.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/115794875/205834356-b3392114-2259-4f37-91aa-01acd6197ec6.png)
     
-    #### Berikut hasil run
-    - Untuk menambahkan data kita perlu ketik angka 1 saja
-    ![Screenshot (163)](https://user-images.githubusercontent.com/115794875/205834821-d3b0eeb7-826d-4ec2-93ec-23fbae7c98df.png)
-    
-    - Menampilkan data ketik angka 2
-    ![Screenshot (165)](https://user-images.githubusercontent.com/115794875/205835135-50e56622-de23-4b75-a490-ff2c5e9e096b.png)
+#### Berikut hasil run
+- Untuk menambahkan data kita perlu ketik angka 1 saja
 
-    - Untuk menghapus data dan keluar ketik angka 4 dan 5
-    ![Screenshot (166)](https://user-images.githubusercontent.com/115794875/205835399-e85f2122-ca65-49ed-a0a6-d270eaa09c91.png)
+  ![Screenshot (163)](https://user-images.githubusercontent.com/115794875/205834821-d3b0eeb7-826d-4ec2-93ec-23fbae7c98df.png)
     
-    #### Flowchart Praktikum
-    ![image](https://user-images.githubusercontent.com/115794875/205836101-ecda7f0e-5de0-4e3f-a7ba-1d203c59b0a3.png)
+- Menampilkan data ketik angka 2
+
+  ![Screenshot (165)](https://user-images.githubusercontent.com/115794875/205835135-50e56622-de23-4b75-a490-ff2c5e9e096b.png)
+
+- Untuk menghapus data dan keluar ketik angka 4 dan 5
+
+  ![Screenshot (166)](https://user-images.githubusercontent.com/115794875/205835399-e85f2122-ca65-49ed-a0a6-d270eaa09c91.png)
+    
+#### Flowchart Praktikum
+
+ ![image](https://user-images.githubusercontent.com/115794875/205836101-ecda7f0e-5de0-4e3f-a7ba-1d203c59b0a3.png)
 
 
 
