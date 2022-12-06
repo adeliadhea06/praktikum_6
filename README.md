@@ -170,4 +170,5 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
     
 #### Flowchart Praktikum
 
-[flow.pdf](https://github.com/adeliadhea06/praktikum_6/files/10163361/flow.pdf)
+![image](https://user-images.githubusercontent.com/115794875/205837891-9d2f2330-3574-4dfe-b434-aed4e686a7d1.png)
+
